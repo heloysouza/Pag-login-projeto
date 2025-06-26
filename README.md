@@ -39,13 +39,12 @@ Nexus-Login/
 │   └── reconhecimento-facial (1).png
 │   └── google.png
 └── README.md
-----
 
 ## 🚀 Como Usar
 
 - Clone ou baixe este repositório:
 
-- Git clone https://github.com/seu-usuario/nexus-login.git
+- Git clone https://github.com/heloysouza/Pag-login-projeto.git
 
 - Abra o arquivo index.html em seu navegador.
 
@@ -74,7 +73,7 @@ Nexus-Login/
 
 ## 📞 Contato
 
-- Se você tiver alguma dúvida ou sugestão, entre em contato comigo em [seu-email@example.com](heloiltonsl@gmail.com).
+- Se você tiver alguma dúvida ou sugestão, entre em contato comigo em [heloiltonsl@gmail.com](heloiltonsl@gmail.com).
 
 
 ## 📄 Licença
